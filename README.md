@@ -1,16 +1,16 @@
 <h1 align="center">Hey 👋, I'm Srijan Das</h1>
 <h3 align="center">A passionate full stack developer crafting innovative solutions on GitHub.</h3>
 <img align="center" width= "100%" src = "https://c4.wallpaperflare.com/wallpaper/919/217/102/cool-wallpaper-preview.jpg" >
-
+<hr width="1000px">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thisissrijan&label=Profile%20views&color=0e75b6&style=flat" alt="thisissrijan" /> </p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<hr width="1000px">
+
 - 💬 Ask me about **MERN**
 
 - 📫 Contact me 👉 **dassrijan16@gmail.com**
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under a minute!**
-
+<hr width="1000px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/itssrijanhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="itssrijanhere" height="30" width="40" /></a>
