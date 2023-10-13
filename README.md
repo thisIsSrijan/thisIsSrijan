@@ -3,7 +3,7 @@
 <img align="center" width= "100%" src = "https://c4.wallpaperflare.com/wallpaper/919/217/102/cool-wallpaper-preview.jpg" >
 <hr width="100%">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thisissrijan&label=Profile%20views&color=0e75b6&style=flat" alt="thisissrijan" /> </p>
-<img align="right" margin-bottom="-150" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" margin-bottom="-350" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 💬 Ask me about **MERN**
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under a minute!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left" justify-content ="space-between">
 <a href="https://codepen.io/itssrijanhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="itssrijanhere" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/srijan-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan-das" height="30" width="40" /></a>
