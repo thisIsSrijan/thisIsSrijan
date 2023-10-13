@@ -13,7 +13,7 @@
 
 - 📫 Contact me 👉 **dassrijan16@gmail.com**
 
-- ⚡ Fun fact: **I can solve a Rubik's Cube in under a minute!**
+- ⚡ **I can solve a Rubik's Cube in under a minute!**
 <br>
 <br>
 <h3 align="center">Connect with me:</h3>
