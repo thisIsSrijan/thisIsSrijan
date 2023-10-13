@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer crafting innovative solutions on GitHub.</h3>
 <img align="center" width= "100%" src = "https://c4.wallpaperflare.com/wallpaper/919/217/102/cool-wallpaper-preview.jpg" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisissrijan&label=Profile%20views&color=0e75b6&style=flat" alt="thisissrijan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thisissrijan&label=Profile%20views&color=0e75b6&style=flat" alt="thisissrijan" /> </p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 - 💬 Ask me about **MERN**
 
