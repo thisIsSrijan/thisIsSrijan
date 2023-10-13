@@ -7,9 +7,13 @@
 
 - 💬 Ask me about **MERN**
 
+- 👉 Currently learning Firebase
+
+- 🎓 CSE undergrad @LNMIIT, Jaipur
+
 - 📫 Contact me 👉 **dassrijan16@gmail.com**
 
-- ⚡ Fun fact **I can solve a Rubik's Cube in under a minute!**
+- ⚡ Fun fact: **I can solve a Rubik's Cube in under a minute!**
 <br>
 <br>
 <br>
