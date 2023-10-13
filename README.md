@@ -16,7 +16,6 @@
 - ⚡ Fun fact: **I can solve a Rubik's Cube in under a minute!**
 <br>
 <br>
-<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/itssrijanhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="itssrijanhere" height="30" width="40" /></a>
