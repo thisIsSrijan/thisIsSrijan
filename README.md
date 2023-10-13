@@ -16,7 +16,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/itssrijanhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="itssrijanhere" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/srijan-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan-das" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srijan-das-04675224b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan-das" height="30" width="40" /></a>
 <a href="https://instagram.com/dassrijan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dassrijan_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/redwinter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="redwinter" height="30" width="40" /></a>
 </p>
