@@ -1,7 +1,3 @@
-<h1 align="center">Hey 👋, I'm Srijan Das</h1>
-<h3 align="center">A passionate full stack developer crafting innovative solutions on GitHub.</h3>
-<img align="center" width= "100%" height="70%" src = "https://e0.pxfuel.com/wallpapers/184/371/desktop-wallpaper-akira-kurusu-persona-5-anime-video-game.jpg" >
-<hr width="100%">
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 # 💫 About Me:
