@@ -1,5 +1,3 @@
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
 # 💫 About Me:
 I am a third-year Computer Science undergraduate at LNMIIT, a passionate full-stack web developer, and a machine learning enthusiast.<br><br>In the last 2+ years, I have gained hands-on experience by contributing to various projects/internship and working with skills that include Data Structures and Algorithms (Java), full-stack web development (ReactJS, MongoDB, MySQL, Express, NodeJS), and machine learning (Python, ScikitLearn).<br><br>I am the development domain lead of the Google Developer Group(GDG) of my college for a year, & I enjoy collaborating on innovative projects and contributing to the open-source community.<br><br>I am an aspiring software engineer seeking an internship to further develop my skills and contribute to impactful projects. I prioritize progress over perfection, always learning from my experiences to grow both personally and professionally.<br><br>Outside of my academic and professional life, I am an anime enthusiast and I also love documenting my life.
 
